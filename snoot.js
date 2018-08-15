@@ -18,7 +18,7 @@ function removeSelectDefaults() {
     }
 }
 
-//function to set up document fragments for days of month📅
+//function to set up document fragments for days of month
 function setUpDates() {
 //    get the days option tag
     var dates = document.getElementById("delivDy").getElementsByTagName("option");
